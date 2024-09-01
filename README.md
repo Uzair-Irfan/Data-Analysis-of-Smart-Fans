@@ -1,2 +1,3 @@
 # Data-Analysis-of-Smart-Fans
 Hello This repository is all about Analysis and Visualization of Data set. In this you can learn how i analysed and visualized variable and inappropriate Smart fan's data data and how i made it useful and organized by different logics and commands...
+I used My-SQL and Python for this.
